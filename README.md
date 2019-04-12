@@ -1,5 +1,5 @@
 # CPSC_ASSIGNMENT4- 
-I failed to complete  assignment 4. This assignment was quite a challege for me. I put in a nnumber of hours and was unfortunately unable to put it together . I asked around for assistance and had a ton of help but never quite understood the assignment .
+I failed to complete  assignment 4. This assignment was quite a challege for me. I put in a number of hours and was unfortunately unable to put it together . I asked around for assistance and had a ton of help but never quite understood the assignment .
 
 1.) Identifying Information a. Full Name: James Romero b. Student ID: 2334232 c. Chapman email: jaromero@chapman.edu d. Course number and section: 350 e. Assignment Number: 04
 
