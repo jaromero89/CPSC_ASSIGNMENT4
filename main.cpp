@@ -1,3 +1,10 @@
+/*
+  James Romero
+  ID: 2334232
+  jaromero@chapman.edu
+  CPSC 350-01
+  Assignment 4
+*/
 
 #include <iostream>
 #include <fstream>
