@@ -22,5 +22,8 @@ int main(int argc, char const *argv[]) {
   cout << "Please enter file: ";
   getline(cin, filename);
   
+  TrafficFlowManager object;
+  object.startTrafficFlowManager (file name);
+ 
   return 0;
 }
